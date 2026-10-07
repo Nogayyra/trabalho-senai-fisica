@@ -1,0 +1,16 @@
+{
+    "name": "arthur/qualidade-agua",
+    "description": "Laboratorio digital de testes de qualidade da agua — trabalho interarea SENAI",
+    "type": "project",
+    "require": {
+        "php": ">=8.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^12"
+    },
+    "autoload": {
+        "classmap": [
+            "Controller/"
+        ]
+    }
+}
