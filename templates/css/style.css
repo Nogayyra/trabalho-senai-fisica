@@ -1,0 +1,26 @@
+body {
+    background-color: #f2f7fb;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topo {
+    background-color: #0b6fa4;
+    color: #fff;
+    padding: 2rem 1rem;
+}
+
+.topo p {
+    margin-bottom: 0;
+    opacity: 0.9;
+}
+
+.card-header {
+    background-color: #0b6fa4;
+    color: #fff;
+    font-weight: bold;
+}
+
+.btn-primary {
+    background-color: #0b6fa4;
+    border-color: #0b6fa4;
+}
